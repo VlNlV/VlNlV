@@ -1,5 +1,5 @@
 ## sup
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/VlNlV?label=Follow&style=social)
 <!--
 **VlNlV/VlNlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
