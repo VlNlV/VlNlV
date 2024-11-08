@@ -1,8 +1,15 @@
 name: Update README with Current Date
 
 on:
+  # Run the workflow every 5 minutes
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+    - cron: '*/5 * * * *'
+  # Run the workflow when there's a push to the main branch
+  push:
+    branches:
+      - main
+  # Allow the workflow to run manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -13,7 +20,7 @@ jobs:
 
       - name: Update README with the current date
         run: |
-          DATE=$(date +"%A, %B %d, %Y")
+          DATE=$(date +"%A, %B %d, %Y %H:%M:%S")
           sed -i "s/<!--DATE_PLACEHOLDER-->/$DATE/" README.md
 
       - name: Commit and push changes
