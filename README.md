@@ -1,5 +1,6 @@
 ## sup
-[![Edit on CodeSandbox](https://img.shields.io/badge/CodeSandbox-Demo-blue)](https://codesandbox.io/s/your-demo-url)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/your-spotify-username)
+
 
 <!--
 **VlNlV/VlNlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
