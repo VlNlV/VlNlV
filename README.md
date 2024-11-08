@@ -2,7 +2,6 @@
 
 ![Iron Man Boom](https://media.giphy.com/media/xDyB4KAU7Y6qc/giphy.gif)
 
-[via GIPHY](https://giphy.com/gifs/iron-man-tony-stark-boom-xDyB4KAU7Y6qc)
 
 
 <!--
