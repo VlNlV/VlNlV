@@ -1,6 +1,7 @@
 ## sup
 
-![After Effects Animation](https://media.giphy.com/media/l0MYCl09TyHtijyAo/giphy.gif)
+![Endless Tunnel Animation](https://media.giphy.com/media/YbS3KkZSFGUkB4XO1X/giphy.gif)
+![Psychedelic Sunset](https://media.giphy.com/media/RfnQuPrBYOzpdh8yrh/giphy.gif)
 
 
 
