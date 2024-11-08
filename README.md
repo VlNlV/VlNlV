@@ -1,6 +1,6 @@
 ## sup
 
-![Crystal UI Rocktopus](https://media.giphy.com/media/3c11mCmFM1XwdZd405/giphy.gif)
+![Vaporwave Night City](https://media.giphy.com/media/gIMWrXBCYv7w8CLbMP/giphy.gif)
 ![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV&show_icons=true&theme=dark)
 
 
