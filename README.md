@@ -1,7 +1,7 @@
 ## sup
 
 ![Psychedelic Sunset](https://media.giphy.com/media/RfnQuPrBYOzpdh8yrh/giphy.gif)
-[![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV)](https://github.com/VlNlV/github-readme-stats)
+![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV&show_icons=true&theme=dark)
 
 
 
