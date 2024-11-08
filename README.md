@@ -1,5 +1,6 @@
 ## sup
 
+today is: <!--DATE_PLACEHOLDER-->
 
 
 <!--
