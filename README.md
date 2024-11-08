@@ -1,6 +1,7 @@
 ## sup
 
 ![Cool GIF](https://media.giphy.com/media/axcZ1wkjhEo8Ng1cCy/giphy.gif)
+![Current Date](https://img.shields.io/badge/date-2024--11--09-blue)
 ![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV&show_icons=true&theme=dark)
 ![Awesome GIF](https://media.giphy.com/media/ontuGIyllqCRO/giphy.gif)
 
