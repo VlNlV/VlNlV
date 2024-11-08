@@ -1,10 +1,9 @@
 ## sup
 
+ 
+   ![Psychedelic Sunset](https://media.giphy.com/media/RfnQuPrBYOzpdh8yrh/giphy.gif)
+  ![Endless Tunnel Animation](https://media.giphy.com/media/YbS3KkZSFGUkB4XO1X/giphy.gif)
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://media.giphy.com/media/YbS3KkZSFGUkB4XO1X/giphy.gif" style="max-width: 45%;" />
-  <img src="https://media.giphy.com/media/RfnQuPrBYOzpdh8yrh/giphy.gif" style="max-width: 45%;" />
-</div>
 
 
 
