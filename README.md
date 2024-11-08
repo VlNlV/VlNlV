@@ -1,5 +1,6 @@
 ## sup
-![Welcome Animation](https://media.giphy.com/media/dxIWqOAvHp86byrd8N/giphy.gif)
+[![Edit on CodeSandbox](https://img.shields.io/badge/CodeSandbox-Demo-blue)](https://codesandbox.io/s/your-demo-url)
+
 <!--
 **VlNlV/VlNlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
