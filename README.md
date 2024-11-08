@@ -1,6 +1,6 @@
 ## sup
 
-![Vaporwave Night City](https://media.giphy.com/media/gIMWrXBCYv7w8CLbMP/giphy.gif)
+![Gunship Game Cinematic](https://media.giphy.com/media/PYIV6DUBq7UYLdiDM6/giphy.gif)
 ![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV&show_icons=true&theme=dark)
 
 
