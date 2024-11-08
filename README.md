@@ -3,7 +3,7 @@
 ![Cool GIF](https://media.giphy.com/media/axcZ1wkjhEo8Ng1cCy/giphy.gif)
 ![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV&show_icons=true&theme=dark)
 ![Awesome GIF](https://media.giphy.com/media/ontuGIyllqCRO/giphy.gif)
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/VlNlV/count.svg)
 
 
 
