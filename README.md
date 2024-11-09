@@ -4,7 +4,8 @@
 ![Bee Movie GIF](https://media.giphy.com/media/rUxSaLgjcQbLO/giphy.gif)
 
 ![VlNlV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlNlV&show_icons=true&theme=dark)
-![Awesome GIF](https://media.giphy.com/media/ontuGIyllqCRO/giphy.gif)
+
+<!--![Awesome GIF](https://media.giphy.com/media/ontuGIyllqCRO/giphy.gif) -->
 
 
 
